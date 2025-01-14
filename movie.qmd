@@ -1,0 +1,54 @@
+---
+title: "Favourite Movie"
+author: "Airy Zachary Bin Zainal"
+format: 
+  revealjs:
+    incremental: true
+    center: true
+    slideNumber: true
+    history: true
+    mouse: true
+    transition: 'slide'
+    width: '100%'
+    height: '100%'
+    margin: 0.1
+    minScale: 0.2
+    maxScale: 1.5
+---
+
+## Hereditary
+
+Hereditary is a horror film directed by Ari Aster, released in 2018. It stars Toni Collette, who plays the role of Annie, a mother who discovers the terrifying secrets of her ancestry after her mother's death.
+
+---
+
+## Trailer
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/V6wWKNij_1M?si=iOc5_ZCphlHjaYqX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+## Plot Summary
+
+The story revolves around the Graham family as they unravel disturbing family secrets. After the grandmother's death, the family begins to uncover cryptic and increasingly terrifying secrets about their ancestry.
+
+---
+
+## Critical Reception
+
+Critics praised the movie for its atmospheric tension and Toni Collette's performance.
+
+- **Rotten Tomatoes:** 89%
+- **Metacritic:** 87
+
+---
+
+## Themes
+
+- **Grief:** The film explores the ways in which different family members deal with loss and grief.
+- **Heritage:** It delves into the terrifying aspects of heritage and the inescapable nature of family legacy.
+
+---
+
+## Thank You for Watching
+Thank you for viewing this presentation on "Hereditary." Go back to [home page](index.html).

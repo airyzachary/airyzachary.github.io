@@ -7,8 +7,13 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - project.qmd
+        text: Introduction
+      - href: project.qmd
+        text: Project
+      - href: movie.qmd
+        text: Movie
+      - href: reflection.qmd
+        text: Reflection
 
 format:
   html:

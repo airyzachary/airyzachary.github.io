@@ -7,18 +7,24 @@ format:
     embed-resources: true
 ---
 
+<p align="center">
+  <img src="Chicken.jpg" alt="CMe">
+</p>
 # About Me
 I am a student currently studying at Singapore Institute of Technology. The course that I am taking right now is Applied Computing with a Specialisation in Fintech. I am currently on my 2nd year.
 
-# Education
-1. Tampines Secondary School: 2014-2017
+---
 
-2. Temasek Polytechnic: 2018-2021
-- Diploma in Business Intelligence and Analytics 
+## Education
 
-3. Singapore Institute of Technology: 2023-Current
-- Bachelor of Science in Applied Computing
+| Institution                  | Years Attended | Qualification Obtained                            |
+|------------------------------|----------------|---------------------------------------------------|
+| Tampines Secondary School    | 2014-2017      | GCE 'O' Levels                                    |
+| Temasek Polytechnic          | 2018-2021      | Diploma in Business Intelligence and Analytics    |
+| Singapore Institute of Technology | 2023-Current | Bachelor of Science in Applied Computing         |
 
+
+---
 
 # Experience
 1. Internship at RHB Bank Berhad: 2020-2021

@@ -1,0 +1,10 @@
+---
+title: "Reflections"
+author: Airy Zachary Bin Zainal
+
+format: 
+  html:
+    embed-resources: true
+---
+
+For this particular assessment, the GenAI tool that I have used is ChatGPT. I used it to learn how to style css files. I also used it for my quarto presentation slides, such as learning how to embed a video in it. I think it is beneficial as users are able to quickly solve simple issues that they have. It can also help teach and provide information about certain topics that you otherwise may not know or may not have known in the first place. A challenge would be that GenAI cannot be used to for complex problems, and does not fully understand what you are asking it at times. It will also sometimes give you an entirely wrong answer, and if you do not fact check or double confirm it will be harmful.

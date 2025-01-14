@@ -1,0 +1,19 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+#presentation-container {
+    height: calc(100% - 60px);  // Assuming navbar is 60px high
+    margin-top: 60px;
+    width: 100%;
+    position: relative;  // Previously set to absolute, which can be adjusted if needed
+    box-sizing: border-box;
+}
+
+.reveal {
+    height: 100%;
+    width: 100%;
+}

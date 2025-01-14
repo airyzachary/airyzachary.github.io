@@ -4,48 +4,125 @@
     "href": "index.html",
     "title": "Intro",
     "section": "",
-    "text": "About Me\nI am a student currently studying at Singapore Institute of Technology. The course that I am taking right now is Applied Computing with a Specialisation in Fintech. I am currently on my 2nd year.\n\n\nEducation\n\nTampines Secondary School: 2014-2017\nTemasek Polytechnic: 2018-2021\n\n\nDiploma in Business Intelligence and Analytics\n\n\nSingapore Institute of Technology: 2023-Current\n\n\nBachelor of Science in Applied Computing\n\n\n\nExperience\n\nInternship at RHB Bank Berhad: 2020-2021\n\n\nSupport IT test environment\nAd hoc IT support of reported issues during testing phases\nInformation extraction from test system"
+    "text": "About Me\nI am a student currently studying at Singapore Institute of Technology. The course that I am taking right now is Applied Computing with a Specialisation in Fintech. I am currently on my 2nd year.\n\n\n\nEducation\n\nTampines Secondary School: 2014-2017\nTemasek Polytechnic: 2018-2021\n\n\nDiploma in Business Intelligence and Analytics\n\n\nSingapore Institute of Technology: 2023-Current\n\n\nBachelor of Science in Applied Computing\n\n\n\n\nExperience\n\nInternship at RHB Bank Berhad: 2020-2021\n\n\nSupport IT test environment\nAd hoc IT support of reported issues during testing phases\nInformation extraction from test system"
   },
   {
     "objectID": "project.html",
     "href": "project.html",
-    "title": "My Project",
+    "title": "Project Highlights: Big Data Analysis over Twitter Data",
     "section": "",
-    "text": "Our project leveraged Big Data tools and AWS infrastructure to analyze airline-related tweets. The goal was to derive actionable insights from customer sentiment and complaints, enhancing airlines’ operational efficiency and customer satisfaction.\n\n\n\n\nAWS Infrastructure Utilization: Employed Amazon Web Services like S3 for data storage and EMR (Elastic MapReduce) for powerful data processing capabilities.\nAdvanced Data Cleaning Techniques: Developed a Python script to efficiently clean and consolidate the Twitter_Airline Dataset, ensuring high-quality data for analysis.\nComplex Data Analysis Tasks: Executed multiple analytical tasks, including:\n\nDetermining the number of delayed flights.\nCategorizing complaints by reasons and airlines.\nPerforming sentiment analysis using SentiWordNet and a CNN model for accuracy comparison.\n\n\n\n\n\n\nDelayed Flights and Complaint Analysis: Identified significant patterns in delayed flights and top complaints across different airlines, providing a clear picture of areas needing improvement.\nSentiment Analysis: Utilized SentiWordNet and a CNN model to analyze tweet sentiments, with the CNN model showing remarkable accuracy due to its ability to handle complex linguistic patterns.\nExploratory Data Analysis: Conducted comprehensive EDA to explore mentions of airlines, popular hashtags, and geographical distribution of tweets. This provided insights into public sentiment and geographical trends in customer satisfaction.\n\n\n\n\n\nDynamic Visualizations: Integrated advanced visualization tools like Matplotlib, Seaborn, and Plotly to represent data effectively, making insights accessible through a web-based dashboard.\nData Storage with MongoDB: Utilized MongoDB for structured storage and quick retrieval of analysis results, supporting dynamic interactions on the web dashboard.\n\n\n\n\nOur project not only demonstrated the effective use of Big Data and cloud technologies in understanding customer sentiment but also provided a scalable solution for continuous improvement in customer service across the airline industry."
+    "text": "Our project leveraged Big Data tools and AWS infrastructure to analyze airline-related tweets. The goal was to derive actionable insights from customer sentiment and complaints, enhancing airlines’ operational efficiency and customer satisfaction."
   },
   {
     "objectID": "project.html#introduction",
     "href": "project.html#introduction",
-    "title": "My Project",
+    "title": "Project Highlights: Big Data Analysis over Twitter Data",
     "section": "",
     "text": "Our project leveraged Big Data tools and AWS infrastructure to analyze airline-related tweets. The goal was to derive actionable insights from customer sentiment and complaints, enhancing airlines’ operational efficiency and customer satisfaction."
   },
   {
     "objectID": "project.html#innovative-features",
     "href": "project.html#innovative-features",
-    "title": "My Project",
-    "section": "",
-    "text": "AWS Infrastructure Utilization: Employed Amazon Web Services like S3 for data storage and EMR (Elastic MapReduce) for powerful data processing capabilities.\nAdvanced Data Cleaning Techniques: Developed a Python script to efficiently clean and consolidate the Twitter_Airline Dataset, ensuring high-quality data for analysis.\nComplex Data Analysis Tasks: Executed multiple analytical tasks, including:\n\nDetermining the number of delayed flights.\nCategorizing complaints by reasons and airlines.\nPerforming sentiment analysis using SentiWordNet and a CNN model for accuracy comparison."
+    "title": "Project Highlights: Big Data Analysis over Twitter Data",
+    "section": "Innovative Features",
+    "text": "Innovative Features\n\nAWS Infrastructure Utilization: Employed Amazon Web Services like S3 for data storage and EMR (Elastic MapReduce) for powerful data processing capabilities.\nAdvanced Data Cleaning Techniques: Developed a Python script to efficiently clean and consolidate the Twitter_Airline Dataset, ensuring high-quality data for analysis.\nComplex Data Analysis Tasks: Executed multiple analytical tasks, including:\n\nDetermining the number of delayed flights.\nCategorizing complaints by reasons and airlines.\nPerforming sentiment analysis using SentiWordNet and a CNN model for accuracy comparison."
   },
   {
     "objectID": "project.html#key-findings",
     "href": "project.html#key-findings",
-    "title": "My Project",
-    "section": "",
-    "text": "Delayed Flights and Complaint Analysis: Identified significant patterns in delayed flights and top complaints across different airlines, providing a clear picture of areas needing improvement.\nSentiment Analysis: Utilized SentiWordNet and a CNN model to analyze tweet sentiments, with the CNN model showing remarkable accuracy due to its ability to handle complex linguistic patterns.\nExploratory Data Analysis: Conducted comprehensive EDA to explore mentions of airlines, popular hashtags, and geographical distribution of tweets. This provided insights into public sentiment and geographical trends in customer satisfaction."
+    "title": "Project Highlights: Big Data Analysis over Twitter Data",
+    "section": "Key Findings",
+    "text": "Key Findings\n\nDelayed Flights and Complaint Analysis: Identified significant patterns in delayed flights and top complaints across different airlines, providing a clear picture of areas needing improvement.\nSentiment Analysis: Utilized SentiWordNet and a CNN model to analyze tweet sentiments, with the CNN model showing remarkable accuracy due to its ability to handle complex linguistic patterns.\nExploratory Data Analysis: Conducted comprehensive EDA to explore mentions of airlines, popular hashtags, and geographical distribution of tweets. This provided insights into public sentiment and geographical trends in customer satisfaction."
   },
   {
     "objectID": "project.html#visualizations-and-storage",
     "href": "project.html#visualizations-and-storage",
-    "title": "My Project",
-    "section": "",
-    "text": "Dynamic Visualizations: Integrated advanced visualization tools like Matplotlib, Seaborn, and Plotly to represent data effectively, making insights accessible through a web-based dashboard.\nData Storage with MongoDB: Utilized MongoDB for structured storage and quick retrieval of analysis results, supporting dynamic interactions on the web dashboard."
+    "title": "Project Highlights: Big Data Analysis over Twitter Data",
+    "section": "Visualizations and Storage",
+    "text": "Visualizations and Storage\n\nDynamic Visualizations: Integrated advanced visualization tools like Matplotlib, Seaborn, and Plotly to represent data effectively, making insights accessible through a web-based dashboard.\nData Storage with MongoDB: Utilized MongoDB for structured storage and quick retrieval of analysis results, supporting dynamic interactions on the web dashboard."
   },
   {
     "objectID": "project.html#conclusion",
     "href": "project.html#conclusion",
-    "title": "My Project",
+    "title": "Project Highlights: Big Data Analysis over Twitter Data",
+    "section": "Conclusion",
+    "text": "Conclusion\nOur project not only demonstrated the effective use of Big Data and cloud technologies in understanding customer sentiment but also provided a scalable solution for continuous improvement in customer service across the airline industry."
+  },
+  {
+    "objectID": "movie.html#hereditary",
+    "href": "movie.html#hereditary",
+    "title": "Favourite Movie",
     "section": "",
-    "text": "Our project not only demonstrated the effective use of Big Data and cloud technologies in understanding customer sentiment but also provided a scalable solution for continuous improvement in customer service across the airline industry."
+    "text": "Hereditary is a horror film directed by Ari Aster, released in 2018. It stars Toni Collette, who plays the role of Annie, a mother who discovers the terrifying secrets of her ancestry after her mother’s death."
+  },
+  {
+    "objectID": "movie.html#plot-summary",
+    "href": "movie.html#plot-summary",
+    "title": "Favourite Movie",
+    "section": "Plot Summary",
+    "text": "Plot Summary\nThe story revolves around the Graham family as they unravel disturbing family secrets. After the grandmother’s death, the family begins to uncover cryptic and increasingly terrifying secrets about their ancestry."
+  },
+  {
+    "objectID": "movie.html#critical-reception",
+    "href": "movie.html#critical-reception",
+    "title": "Favourite Movie",
+    "section": "Critical Reception",
+    "text": "Critical Reception\nCritics praised the movie for its atmospheric tension and Toni Collette’s performance.\n\nRotten Tomatoes: 89%\nMetacritic: 87"
+  },
+  {
+    "objectID": "movie.html#themes",
+    "href": "movie.html#themes",
+    "title": "Favourite Movie",
+    "section": "Themes",
+    "text": "Themes\n\nGrief: The film explores the ways in which different family members deal with loss and grief.\nHeritage: It delves into the terrifying aspects of heritage and the inescapable nature of family legacy."
+  },
+  {
+    "objectID": "movie.html#slide-backgrounds",
+    "href": "movie.html#slide-backgrounds",
+    "title": "Favourite Movie",
+    "section": "Slide Backgrounds",
+    "text": "Slide Backgrounds\nYou can set backgrounds for slides by using:"
+  },
+  {
+    "objectID": "movie.html#markdown",
+    "href": "movie.html#markdown",
+    "title": "Favourite Movie",
+    "section": "```markdown",
+    "text": "```markdown\nbackground-image: url(path/to/image.jpg) background-size: cover —"
+  },
+  {
+    "objectID": "movie.html",
+    "href": "movie.html",
+    "title": "Favourite Movie",
+    "section": "",
+    "text": "Hereditary is a horror film directed by Ari Aster, released in 2018. It stars Toni Collette, who plays the role of Annie, a mother who discovers the terrifying secrets of her ancestry after her mother’s death."
+  },
+  {
+    "objectID": "movie.html#thank-you-for-watching",
+    "href": "movie.html#thank-you-for-watching",
+    "title": "Favourite Movie",
+    "section": "Thank You for Watching",
+    "text": "Thank You for Watching\nThank you for viewing this presentation on “Hereditary.” Go back to home page."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Intro",
+    "section": "Education",
+    "text": "Education\n\n\n\n\n\n\n\n\nInstitution\nYears Attended\nQualification Obtained\n\n\n\n\nTampines Secondary School\n2014-2017\nGCE ‘O’ Levels\n\n\nTemasek Polytechnic\n2018-2021\nDiploma in Business Intelligence and Analytics\n\n\nSingapore Institute of Technology\n2023-Current\nBachelor of Science in Applied Computing"
+  },
+  {
+    "objectID": "movie.html#trailer",
+    "href": "movie.html#trailer",
+    "title": "Favourite Movie",
+    "section": "Trailer",
+    "text": "Trailer"
+  },
+  {
+    "objectID": "reflection.html",
+    "href": "reflection.html",
+    "title": "Reflections",
+    "section": "",
+    "text": "For this particular assessment, the GenAI tool that I have used is ChatGPT. I used it to learn how to style css files. I also used it for my quarto presentation slides, such as learning how to embed a video in it. I think it is beneficial as users are able to quickly solve simple issues that they have. It can also help teach and provide information about certain topics that you otherwise may not know or may not have known in the first place. A challenge would be that GenAI cannot be used to for complex problems, and does not fully understand what you are asking it at times. It will also sometimes give you an entirely wrong answer, and if you do not fact check or double confirm it will be harmful."
   }
 ]

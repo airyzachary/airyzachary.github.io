@@ -1,5 +1,5 @@
 ---
-title: "My Project"
+title: "Project Highlights: Big Data Analysis over Twitter Data"
 author: Airy Zachary Bin Zainal
 
 format: 
@@ -7,10 +7,9 @@ format:
     embed-resources: true
 ---
 
-# Project Highlights: Big Data Analysis over Twitter Data
-
 ## Introduction
 Our project leveraged Big Data tools and AWS infrastructure to analyze airline-related tweets. The goal was to derive actionable insights from customer sentiment and complaints, enhancing airlines' operational efficiency and customer satisfaction.
+---
 
 ## Innovative Features
 
@@ -20,17 +19,20 @@ Our project leveraged Big Data tools and AWS infrastructure to analyze airline-r
   - Determining the number of delayed flights.
   - Categorizing complaints by reasons and airlines.
   - Performing sentiment analysis using SentiWordNet and a CNN model for accuracy comparison.
+---
 
 ## Key Findings
 
 - **Delayed Flights and Complaint Analysis:** Identified significant patterns in delayed flights and top complaints across different airlines, providing a clear picture of areas needing improvement.
 - **Sentiment Analysis:** Utilized SentiWordNet and a CNN model to analyze tweet sentiments, with the CNN model showing remarkable accuracy due to its ability to handle complex linguistic patterns.
 - **Exploratory Data Analysis:** Conducted comprehensive EDA to explore mentions of airlines, popular hashtags, and geographical distribution of tweets. This provided insights into public sentiment and geographical trends in customer satisfaction.
+---
 
 ## Visualizations and Storage
 
 - **Dynamic Visualizations:** Integrated advanced visualization tools like Matplotlib, Seaborn, and Plotly to represent data effectively, making insights accessible through a web-based dashboard.
 - **Data Storage with MongoDB:** Utilized MongoDB for structured storage and quick retrieval of analysis results, supporting dynamic interactions on the web dashboard.
+---
 
 ## Conclusion
 
