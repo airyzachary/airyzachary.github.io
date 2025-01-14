@@ -1,0 +1,27 @@
+---
+title: "Intro"
+author: Airy Zachary Bin Zainal
+
+format: 
+  html:
+    embed-resources: true
+---
+
+# About Me
+I am a student currently studying at Singapore Institute of Technology. The course that I am taking right now is Applied Computing with a Specialisation in Fintech. I am currently on my 2nd year.
+
+# Education
+1. Tampines Secondary School: 2014-2017
+
+2. Temasek Polytechnic: 2018-2021
+- Diploma in Business Intelligence and Analytics 
+
+3. Singapore Institute of Technology: 2023-Current
+- Bachelor of Science in Applied Computing
+
+
+# Experience
+1. Internship at RHB Bank Berhad: 2020-2021
+- Support IT test environment
+- Ad hoc IT support of reported issues during testing phases
+- Information extraction from test system

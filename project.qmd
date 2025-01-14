@@ -1,0 +1,37 @@
+---
+title: "My Project"
+author: Airy Zachary Bin Zainal
+
+format: 
+  html:
+    embed-resources: true
+---
+
+# Project Highlights: Big Data Analysis over Twitter Data
+
+## Introduction
+Our project leveraged Big Data tools and AWS infrastructure to analyze airline-related tweets. The goal was to derive actionable insights from customer sentiment and complaints, enhancing airlines' operational efficiency and customer satisfaction.
+
+## Innovative Features
+
+- **AWS Infrastructure Utilization:** Employed Amazon Web Services like S3 for data storage and EMR (Elastic MapReduce) for powerful data processing capabilities.
+- **Advanced Data Cleaning Techniques:** Developed a Python script to efficiently clean and consolidate the Twitter_Airline Dataset, ensuring high-quality data for analysis.
+- **Complex Data Analysis Tasks:** Executed multiple analytical tasks, including:
+  - Determining the number of delayed flights.
+  - Categorizing complaints by reasons and airlines.
+  - Performing sentiment analysis using SentiWordNet and a CNN model for accuracy comparison.
+
+## Key Findings
+
+- **Delayed Flights and Complaint Analysis:** Identified significant patterns in delayed flights and top complaints across different airlines, providing a clear picture of areas needing improvement.
+- **Sentiment Analysis:** Utilized SentiWordNet and a CNN model to analyze tweet sentiments, with the CNN model showing remarkable accuracy due to its ability to handle complex linguistic patterns.
+- **Exploratory Data Analysis:** Conducted comprehensive EDA to explore mentions of airlines, popular hashtags, and geographical distribution of tweets. This provided insights into public sentiment and geographical trends in customer satisfaction.
+
+## Visualizations and Storage
+
+- **Dynamic Visualizations:** Integrated advanced visualization tools like Matplotlib, Seaborn, and Plotly to represent data effectively, making insights accessible through a web-based dashboard.
+- **Data Storage with MongoDB:** Utilized MongoDB for structured storage and quick retrieval of analysis results, supporting dynamic interactions on the web dashboard.
+
+## Conclusion
+
+Our project not only demonstrated the effective use of Big Data and cloud technologies in understanding customer sentiment but also provided a scalable solution for continuous improvement in customer service across the airline industry.

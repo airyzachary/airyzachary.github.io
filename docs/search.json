@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Intro",
+    "section": "",
+    "text": "About Me\nI am a student currently studying at Singapore Institute of Technology. The course that I am taking right now is Applied Computing with a Specialisation in Fintech. I am currently on my 2nd year.\n\n\nEducation\n\nTampines Secondary School: 2014-2017\nTemasek Polytechnic: 2018-2021\n\n\nDiploma in Business Intelligence and Analytics\n\n\nSingapore Institute of Technology: 2023-Current\n\n\nBachelor of Science in Applied Computing\n\n\n\nExperience\n\nInternship at RHB Bank Berhad: 2020-2021\n\n\nSupport IT test environment\nAd hoc IT support of reported issues during testing phases\nInformation extraction from test system"
+  },
+  {
+    "objectID": "project.html",
+    "href": "project.html",
+    "title": "My Project",
+    "section": "",
+    "text": "Our project leveraged Big Data tools and AWS infrastructure to analyze airline-related tweets. The goal was to derive actionable insights from customer sentiment and complaints, enhancing airlines’ operational efficiency and customer satisfaction.\n\n\n\n\nAWS Infrastructure Utilization: Employed Amazon Web Services like S3 for data storage and EMR (Elastic MapReduce) for powerful data processing capabilities.\nAdvanced Data Cleaning Techniques: Developed a Python script to efficiently clean and consolidate the Twitter_Airline Dataset, ensuring high-quality data for analysis.\nComplex Data Analysis Tasks: Executed multiple analytical tasks, including:\n\nDetermining the number of delayed flights.\nCategorizing complaints by reasons and airlines.\nPerforming sentiment analysis using SentiWordNet and a CNN model for accuracy comparison.\n\n\n\n\n\n\nDelayed Flights and Complaint Analysis: Identified significant patterns in delayed flights and top complaints across different airlines, providing a clear picture of areas needing improvement.\nSentiment Analysis: Utilized SentiWordNet and a CNN model to analyze tweet sentiments, with the CNN model showing remarkable accuracy due to its ability to handle complex linguistic patterns.\nExploratory Data Analysis: Conducted comprehensive EDA to explore mentions of airlines, popular hashtags, and geographical distribution of tweets. This provided insights into public sentiment and geographical trends in customer satisfaction.\n\n\n\n\n\nDynamic Visualizations: Integrated advanced visualization tools like Matplotlib, Seaborn, and Plotly to represent data effectively, making insights accessible through a web-based dashboard.\nData Storage with MongoDB: Utilized MongoDB for structured storage and quick retrieval of analysis results, supporting dynamic interactions on the web dashboard.\n\n\n\n\nOur project not only demonstrated the effective use of Big Data and cloud technologies in understanding customer sentiment but also provided a scalable solution for continuous improvement in customer service across the airline industry."
+  },
+  {
+    "objectID": "project.html#introduction",
+    "href": "project.html#introduction",
+    "title": "My Project",
+    "section": "",
+    "text": "Our project leveraged Big Data tools and AWS infrastructure to analyze airline-related tweets. The goal was to derive actionable insights from customer sentiment and complaints, enhancing airlines’ operational efficiency and customer satisfaction."
+  },
+  {
+    "objectID": "project.html#innovative-features",
+    "href": "project.html#innovative-features",
+    "title": "My Project",
+    "section": "",
+    "text": "AWS Infrastructure Utilization: Employed Amazon Web Services like S3 for data storage and EMR (Elastic MapReduce) for powerful data processing capabilities.\nAdvanced Data Cleaning Techniques: Developed a Python script to efficiently clean and consolidate the Twitter_Airline Dataset, ensuring high-quality data for analysis.\nComplex Data Analysis Tasks: Executed multiple analytical tasks, including:\n\nDetermining the number of delayed flights.\nCategorizing complaints by reasons and airlines.\nPerforming sentiment analysis using SentiWordNet and a CNN model for accuracy comparison."
+  },
+  {
+    "objectID": "project.html#key-findings",
+    "href": "project.html#key-findings",
+    "title": "My Project",
+    "section": "",
+    "text": "Delayed Flights and Complaint Analysis: Identified significant patterns in delayed flights and top complaints across different airlines, providing a clear picture of areas needing improvement.\nSentiment Analysis: Utilized SentiWordNet and a CNN model to analyze tweet sentiments, with the CNN model showing remarkable accuracy due to its ability to handle complex linguistic patterns.\nExploratory Data Analysis: Conducted comprehensive EDA to explore mentions of airlines, popular hashtags, and geographical distribution of tweets. This provided insights into public sentiment and geographical trends in customer satisfaction."
+  },
+  {
+    "objectID": "project.html#visualizations-and-storage",
+    "href": "project.html#visualizations-and-storage",
+    "title": "My Project",
+    "section": "",
+    "text": "Dynamic Visualizations: Integrated advanced visualization tools like Matplotlib, Seaborn, and Plotly to represent data effectively, making insights accessible through a web-based dashboard.\nData Storage with MongoDB: Utilized MongoDB for structured storage and quick retrieval of analysis results, supporting dynamic interactions on the web dashboard."
+  },
+  {
+    "objectID": "project.html#conclusion",
+    "href": "project.html#conclusion",
+    "title": "My Project",
+    "section": "",
+    "text": "Our project not only demonstrated the effective use of Big Data and cloud technologies in understanding customer sentiment but also provided a scalable solution for continuous improvement in customer service across the airline industry."
+  }
+]
